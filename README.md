@@ -11,10 +11,14 @@ I also have another github account, focused on cybersecurity and AI. Check it ou
 
  ```python
 def getJob(job):
-    if job.model == "homeOffice" and isHigh(job.salary):
-        return True
+    acceptJob = False
+    if job.model == "homeOffice" and isGood(job.salary):
+      acceptJob = True
+    elif isBig(job.company):
+      acceptJob = True
     else:
-        return False
+      acceptJob = False
+    return acceptJob
 ```
 
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/b9GFHJUHEUYAAAAM/developer-xmooney.gif" alt="Alt Text" />
