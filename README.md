@@ -8,20 +8,15 @@
 I also have another github account, focused on cybersecurity and AI. Check it out!
 - [@h4wk0x01](https://github.com/h4wk0x01) <br><br>
 
-![Alt Text](https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif)
+![Alt Text](https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif) 
 
 <br><br>
-## Ferramentas e tecnologias
+## Tools / Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" />
-        
-
-
-
-
  
 <!--
 **gomideus/gomideus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
