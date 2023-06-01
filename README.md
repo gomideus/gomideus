@@ -8,6 +8,9 @@
 I also have another github account, focused on cybersecurity and AI. Check it out!
 - [@h4wk0x01](https://github.com/h4wk0x01)
 
+ <i class="devicon-angularjs-plain-wordmark colored"></i>
+          
+
 <!--
 **gomideus/gomideus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
