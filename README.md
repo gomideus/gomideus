@@ -2,7 +2,7 @@
 - 🔭 My name is Gabriel Gomides ...
 - ⚡ Im graduating in Computer Science at Pontifícia Universidade Católica de Minas Gerais (PUC-MG) ...
 - 😄 Interested in cybersecurity, artificial inteligence and software development
-- [@username](https://github.com/username)
+- [@h4wk0x01](https://github.com/h4wk0x01)
 
 <!--
 **gomideus/gomideus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
