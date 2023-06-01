@@ -4,7 +4,7 @@
 - 😄 Interested in cybersecurity, artificial inteligence and software development
 - 💬 This profile is focused on software development and university tasks
 
-I also have another discord account, focused on cybersecurity and AI. Check it out:
+I also have another github account, focused on cybersecurity and AI. Check it out:
 - [@h4wk0x01](https://github.com/h4wk0x01)
 
 <!--
