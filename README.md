@@ -2,6 +2,8 @@
 - 🔭 My name is Gabriel Gomides ...
 - ⚡ Im graduating in Computer Science at Pontifícia Universidade Católica de Minas Gerais (PUC-MG) ...
 - 😄 Interested in cybersecurity, artificial inteligence and software development
+
+I also have another discord account, focused on cybersecurity and AI. Check it out:
 - [@h4wk0x01](https://github.com/h4wk0x01)
 
 <!--
