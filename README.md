@@ -9,6 +9,14 @@ You're welcome to my profile!
 I also have another github account, focused on cybersecurity and AI. Check it out!
 - [@h4wk0x01](https://github.com/h4wk0x01) <br><br>
 
+ ```python
+def getJob(job):
+    if(job.model == "homeOffice" and isHigh(job.salary)):
+      return true
+    else:
+     return false
+```
+
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/b9GFHJUHEUYAAAAM/developer-xmooney.gif" alt="Alt Text" />
 
 <br><br>
@@ -20,6 +28,7 @@ I also have another github account, focused on cybersecurity and AI. Check it ou
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" />
  </div>
+
  
 <!--
 **gomideus/gomideus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
