@@ -10,15 +10,6 @@ I also have another github account, focused on cybersecurity and AI. Check it ou
 - [@h4wk0x01](https://github.com/h4wk0x01) <br><br>
 
  ```python
-def getJob(job):
-    acceptJob = False
-    if job.model == "homeOffice" and isGood(job.salary):
-      acceptJob = True
-    elif isBig(job.company):
-      acceptJob = True
-    else:
-      acceptJob = False
-    return acceptJob
 ```
 
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/b9GFHJUHEUYAAAAM/developer-xmooney.gif" alt="Alt Text" />
