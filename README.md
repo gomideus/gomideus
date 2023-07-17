@@ -1,10 +1,9 @@
 # Hi there 👋
 You're welcome to my profile!
 - 🔭 My name is Gabriel Gomides ...
-- ⚡ Im graduating in Computer Science at Pontifícia Universidade Católica de Minas Gerais (PUC-MG)
-- 😄 Interested in cybersecurity, artificial inteligence and software development
+- ⚡ Graduated in Computer Science at Pontifícia Universidade Católica de Minas Gerais (PUC-MG)
+- 😄 Software Engineering, cybersecurity, artificial inteligence.
 - 🌐 Visit my portifolio website: https://www.gabrielgomides.com/
-- 💬 This profile is focused on software development and university tasks
 
  ```python
 ```
