@@ -6,9 +6,17 @@ You're welcome to my profile!
 - 🌐 Visit my portifolio website: https://www.gabrielgomides.com/
 
  ```python
+def evaluateCondition(condition):
+  if condition == True:
+   return True
+  elif condition == False:
+   return False
+  else:
+   print("WTF?")
 ```
 
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/b9GFHJUHEUYAAAAM/developer-xmooney.gif" alt="Alt Text" />
+ <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" alt="Alt Text" />
+  
 
 <br><br>
 <div align="center">
