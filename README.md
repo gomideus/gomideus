@@ -2,7 +2,7 @@
 You're welcome to my profile!
 - 🔭 My name is Gabriel Gomides ...
 - ⚡ Graduated in Computer Science at Pontifícia Universidade Católica de Minas Gerais (PUC-MG)
-- 😄 Software Engineering, cybersecurity, artificial inteligence.
+- 😄 Software Engineering, Cybersecurity, Artificial Inteligence.
 - 🌐 Visit my portifolio website: https://www.gabrielgomides.com/
 
  ```python
@@ -14,9 +14,9 @@ def evaluateCondition(condition):
   else:
    print("WTF?")
 ```
-
+<div align="center">
  <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/57w9du3NrV0AAAAM/css-html.gif" alt="Alt Text" />
-  
+  </div>
 
 <br><br>
 <div align="center">
